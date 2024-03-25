@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">c07defest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="course_array">
+        <item>BSIT</item>
+        <item>BSCPE</item>
+        <item>BSA</item>
+    </string-array>
+
+    <string-array name="status_array">
+        <item>Regular</item>
+        <item>Irregular</item>
+    </string-array>
+</resources>
